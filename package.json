@@ -58,19 +58,5 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "husky": "^7.0.4"
   },
-  "private": true,
-  "expo": {
-    "name": "fridge-it",
-    "icon": "./favicon/refrigerator.png",
-    "version": "1.0.0",
-    "slug": "keep track of what is in your fridge and get notified when your food is going out-of-date",
-    "ios": {
-      "bundleIdentifier": "fridge-it.com",
-      "buildNumber": "1.0.0"
-    },
-    "android": {
-      "package": "fridge-it.com",
-      "versionCode": 1
-    }
-  }
+  "private": true
 }
