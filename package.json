@@ -45,7 +45,8 @@
     "react-native-screens": "~3.10.1",
     "react-native-svg": "12.1.1",
     "react-native-web": "0.17.1",
-    "yup": "^0.32.11"
+    "yup": "^0.32.11",
+    "expo-updates": "~0.11.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -57,5 +58,19 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "husky": "^7.0.4"
   },
-  "private": true
+  "private": true,
+  "expo": {
+    "name": "fridge-it",
+    "icon": "./favicon/refrigerator.png",
+    "version": "1.0.0",
+    "slug": "keep track of what is in your fridge and get notified when your food is going out-of-date",
+    "ios": {
+      "bundleIdentifier": "fridge-it.com",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "fridge-it.com",
+      "versionCode": 1
+    }
+  }
 }
