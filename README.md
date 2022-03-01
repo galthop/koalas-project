@@ -12,7 +12,7 @@ For our final group project at Northcoders we created an app that can track the 
 
 There is a traffic light system to determine what is out of date (i.e. red is out-of-date, amber means 'going out-of-date today and green means still fresh'). You are also able to change the quantity and delete food from your fridge list as well as filter your fridge by category.
 
-### A link to our presentation will be posted here when it has been released.
+[![Click here to view our presentation](https://img.youtube.com/watch?v=0K0Ok5AHvO8&list=PLcwpumAUZQkrH2WispEmJoEDozU_RwP08&index=11.jpg)](https://www.youtube.com/watch?v=0K0Ok5AHvO8&list=PLcwpumAUZQkrH2WispEmJoEDozU_RwP08&index=11)
 
 ## Setup
 
